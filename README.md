@@ -15,8 +15,13 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=melee45&show_icons=true&hide_border=true&title_color=2d5a3d&text_color=1a1a18&icon_color=2d5a3d&bg_color=f7f5f0" alt="GitHub stats" height="165" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melee45&layout=compact&hide_border=true&title_color=2d5a3d&text_color=1a1a18&bg_color=f7f5f0" alt="Top languages" height="165" />
+	<table>
+		<tr>
+			<td align="center" width="33%"><strong>React-first</strong><br>Frontend systems and polished UI</td>
+			<td align="center" width="33%"><strong>Full-stack</strong><br>Next.js, Firebase, Supabase, PostgreSQL</td>
+			<td align="center" width="33%"><strong>Product-minded</strong><br>Prototypes, experiments, and shipped work</td>
+		</tr>
+	</table>
 </p>
 
 ## Featured Projects
