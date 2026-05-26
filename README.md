@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-	<img src="assets/icons/react.svg" alt="React" />
-	<img src="assets/icons/nextjs.svg" alt="Next.js" />
-	<img src="assets/icons/typescript.svg" alt="TypeScript" />
-	<img src="assets/icons/tailwind.svg" alt="Tailwind CSS" />
-	<img src="assets/icons/flutter.svg" alt="Flutter" />
-	<img src="assets/icons/firebase.svg" alt="Firebase" />
-	<img src="assets/icons/supabase.svg" alt="Supabase" />
-	<img src="assets/icons/postgresql.svg" alt="PostgreSQL" />
-	<img src="assets/icons/python.svg" alt="Python" />
-	<img src="assets/icons/github-actions.svg" alt="GitHub Actions" />
+	<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="28" />
+	<img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="28" />
+	<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="28" />
+	<img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS" height="28" />
+	<img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" height="28" />
+	<img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="28" />
+	<img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" height="28" />
+	<img src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL" height="28" />
+	<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="28" />
+	<img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="28" />
 </p>
 
 <h1 align="center">Hi, I'm Larie Amimirog</h1>
