@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" width="1600" height="420" role="img" aria-labelledby="title desc">
+  <title id="title">Larie Amimirog profile banner</title>
+  <desc id="desc">Minimal banner with a warm gradient and the text Larie Amimirog, React-first frontend builder.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f5f0"/>
+      <stop offset="55%" stop-color="#e7efe9"/>
+      <stop offset="100%" stop-color="#d9e6dd"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2d5a3d" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#2d5a3d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <circle cx="170" cy="92" r="130" fill="url(#orb)"/>
+  <circle cx="1410" cy="300" r="180" fill="url(#orb)"/>
+  <rect x="48" y="48" width="1504" height="324" rx="30" fill="rgba(255,255,255,0.50)" stroke="#d2d0c8" stroke-width="2"/>
+  <text x="92" y="178" fill="#1a1a18" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">Larie Amimirog</text>
+  <text x="92" y="242" fill="#2d5a3d" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">React-first frontend builder · Full-stack prototypes · Product thinker</text>
+  <text x="92" y="296" fill="#6b6b67" font-family="Segoe UI, Arial, sans-serif" font-size="20">Building useful things with React, Next.js, Flutter, and a lot of iteration.</text>
+</svg>
