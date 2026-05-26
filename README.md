@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-	<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-	<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+	<img src="assets/icons/react.svg" alt="React" />
+	<img src="assets/icons/nextjs.svg" alt="Next.js" />
+	<img src="assets/icons/typescript.svg" alt="TypeScript" />
+	<img src="assets/icons/tailwind.svg" alt="Tailwind CSS" />
+	<img src="assets/icons/flutter.svg" alt="Flutter" />
+	<img src="assets/icons/firebase.svg" alt="Firebase" />
+	<img src="assets/icons/supabase.svg" alt="Supabase" />
+	<img src="assets/icons/postgresql.svg" alt="PostgreSQL" />
+	<img src="assets/icons/python.svg" alt="Python" />
+	<img src="assets/icons/github-actions.svg" alt="GitHub Actions" />
 </p>
 
 <h1 align="center">Hi, I'm Larie Amimirog</h1>
