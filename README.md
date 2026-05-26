@@ -18,7 +18,3 @@ React, Next.js, TypeScript, Tailwind CSS, Flutter, Firebase, Supabase, PostgreSQ
 
 - Email: amimirog@gmail.com
 - GitHub: [@melee45](https://github.com/melee45)
-
----
-
-To show this on your GitHub profile, create a public repository named exactly `melee45` and place this content in its `README.md` file.
