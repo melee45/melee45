@@ -61,7 +61,7 @@
 		<td width="50%">
 			<strong>Kwaygo</strong><br>
 			Flutter startup app and competition winner.<br>
-			<a href="https://kwaygo.com/">Visit site</a>
+			<a href="https://kwaygo-22fdf.web.app/">Visit site</a>
 		</td>
 	</tr>
 </table>
